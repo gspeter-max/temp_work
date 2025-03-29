@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 class compute_loss: 
     
     def __init__(self, lasso_lambda, ridge_lambda,model): 
